@@ -1,5 +1,8 @@
-#python Number Guessing Game
+#Project for fundamental of AIML(CSA2001)
+Name-Somya Bhardwaj
+Reg.No.-25BCE10409
 
+#python Number Guessing Game
 This is a simple game in Python where the user attempts to guess a randomly generated secret number within a fixed range (1 to 100) game will provides hints after each guess Too High or Too Low and tracks the number of attempts.
 
 ###Features
